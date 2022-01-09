@@ -1,0 +1,11 @@
+.image img{
+   border-radius: 20px;
+   width: 100px;
+}
+li{
+    display: block;
+    border-bottom: 1px solid gray;
+}
+.card-body{
+    background-color: #8bc34a85;
+}
